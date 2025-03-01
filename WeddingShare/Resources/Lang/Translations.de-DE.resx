@@ -104,7 +104,7 @@
     <value>Bist du dir sicher, dass du diese Galerie leeren willst?</value>
   </data>
   <data name="Click_To_Upload" xml:space="preserve">
-    <value>Klick hier, um Dateien zum hochladen auszuwählen</value>
+    <value>Klick hier, um Dateien zum Hochladen auszuwählen</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>Schließen</value>
@@ -149,40 +149,40 @@
     <value>Fehler beim Löschen des Benutzers</value>
   </data>
   <data name="Failed_Download_Gallery" xml:space="preserve">
-    <value>Fehler beim herunterladen der Galerie</value>
+    <value>Fehler beim Herunterladen der Galerie</value>
   </data>
   <data name="Failed_Edit_Gallery" xml:space="preserve">
-    <value>Fehler beim aktualisieren der Galerie</value>
+    <value>Fehler beim Aktualisieren der Galerie</value>
   </data>
   <data name="Failed_Edit_User" xml:space="preserve">
-    <value>Fehler beim aktualisieren des Benutzers</value>
+    <value>Fehler beim Aktualisieren des Benutzers</value>
   </data>
   <data name="Failed_Export" xml:space="preserve">
-    <value>Fehler beim exportieren der Daten</value>
+    <value>Fehler beim Exportieren der Daten</value>
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Konnte die Datei nicht finden</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
-    <value>Fehler beim importieren der Daten</value>
+    <value>Fehler beim Importieren der Daten</value>
   </data>
   <data name="Failed_Reviewing_Media" xml:space="preserve">
-    <value>Fehler beim überprüfen des Elements</value>
+    <value>Fehler beim Überprüfen des Elements</value>
   </data>
   <data name="Failed_Wipe_Galleries" xml:space="preserve">
-    <value>Fehler beim löschen aller Galerien</value>
+    <value>Fehler beim Löschen aller Galerien</value>
   </data>
   <data name="Failed_Wipe_Gallery" xml:space="preserve">
-    <value>Fehler beim löschen der Galerie</value>
+    <value>Fehler beim Löschen der Galerie</value>
   </data>
   <data name="FFMPEG_Download_Failed" xml:space="preserve">
-    <value>Fehler beim herunterladen der FFMPEG zu dem Pfad</value>
+    <value>Fehler beim Herunterladen der FFMPEG zu dem Pfad</value>
   </data>
   <data name="FFMPEG_Downloading" xml:space="preserve">
     <value>Versuchte ein Video-Thumbnail zu erstellen, aber FFMPEG wurde noch nicht herunterladen. Falls dies eine frische Installation ist, warte bitte bis der Download fertig ist, die Thumbnails werden im Hintergrund erstellt.</value>
   </data>
   <data name="File_Upload_Failed" xml:space="preserve">
-    <value>Fehler beim hochladen der Datei</value>
+    <value>Fehler beim Hochladen der Datei</value>
   </data>
   <data name="Galleries" xml:space="preserve">
     <value>Galerien</value>
@@ -212,7 +212,7 @@
     <value>hochzeitstag</value>
   </data>
   <data name="Gallery_List_Failed" xml:space="preserve">
-    <value>Fehler beim laden der Gallerieliste</value>
+    <value>Fehler beim Laden der Gallerieliste</value>
   </data>
   <data name="Gallery_Name" xml:space="preserve">
     <value>Name der Galerie</value>
@@ -233,10 +233,10 @@
     <value>Generieren</value>
   </data>
   <data name="Homepage_Load_Error" xml:space="preserve">
-    <value>Ein Fehler ist beim laden der Homepage aufgetreten</value>
+    <value>Ein Fehler ist beim Laden der Homepage aufgetreten</value>
   </data>
   <data name="Identity_Session_Error" xml:space="preserve">
-    <value>Fehler beim setzen der Benutzeridentität - Name</value>
+    <value>Fehler beim Setzen der Benutzeridentität - Name</value>
   </data>
   <data name="Image_Upload_Failed" xml:space="preserve">
     <value>Fehler beim Hochladen von Bildern</value>
@@ -269,7 +269,7 @@
     <value>Anmelden</value>
   </data>
   <data name="Login_Failed" xml:space="preserve">
-    <value>Fehler beim einloggen des Benutzers</value>
+    <value>Fehler beim Einloggen des Benutzers</value>
   </data>
   <data name="Login_Password_Help" xml:space="preserve">
     <value>Bitte gib das Benutzerpasswort ein.</value>
@@ -293,7 +293,7 @@
     <value>Max-Dateigröße ist</value>
   </data>
   <data name="MultiFactor_Token_Set_Failed" xml:space="preserve">
-    <value>Fehler beim einrichten der 2FA</value>
+    <value>Fehler beim Einrichten der 2FA</value>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
@@ -320,7 +320,7 @@
     <value>Ausstehende Uploads</value>
   </data>
   <data name="Pending_Uploads_Failed" xml:space="preserve">
-    <value>Fehler beim laden ausstehender Uploads</value>
+    <value>Fehler beim Laden ausstehender Uploads</value>
   </data>
   <data name="Reject" xml:space="preserve">
     <value>Ablehnen</value>
@@ -335,13 +335,13 @@
     <value>QR-Code speichern</value>
   </data>
   <data name="Save_To_Gallery_Failed" xml:space="preserve">
-    <value>Fehler beim speichern des Bildes zur Galerie</value>
+    <value>Fehler beim Speichern des Bildes zur Galerie</value>
   </data>
   <data name="Scan_To_Share" xml:space="preserve">
     <value>Scanne den QR-Code mit deinem Smartphone, um deine Bilder zu teilen</value>
   </data>
   <data name="Share_Code" xml:space="preserve">
-    <value>Teile den Code</value>
+    <value>Teile den QR-Code</value>
   </data>
   <data name="Sort" xml:space="preserve">
     <value>Sortieren</value>
@@ -365,10 +365,10 @@
     <value>Uploader</value>
   </data>
   <data name="User_CPassword_Missmatch" xml:space="preserve">
-    <value>Das bereitgestellte Passwort und das Bestätigungs-Passwort stimmen nicht überein</value>
+    <value>Das Passwort und das Bestätigungs-Passwort stimmen nicht überein</value>
   </data>
   <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Benutzer mit dem gleichen Namen bereits hinzufügen</value>
+    <value>Benutzer mit dem gleichen Namen existiert bereits</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Benutzername</value>
@@ -377,10 +377,10 @@
     <value>Benutzer</value>
   </data>
   <data name="Users_List_Failed" xml:space="preserve">
-    <value>Fehler beim laden der Benutzerliste</value>
+    <value>Fehler beim Laden der Benutzerliste</value>
   </data>
   <data name="View" xml:space="preserve">
-    <value>Betrachten</value>
+    <value>Anschauen</value>
   </data>
   <data name="Visit" xml:space="preserve">
     <value>Besuche uns</value>
